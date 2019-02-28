@@ -14,7 +14,7 @@ public class Main {
 		OvChipkaart o1 = new OvChipkaart("student week", r1);
 		db.saveOV(o1);
 	
-		 
+// 		 vis
 	
 	
 
