@@ -10,7 +10,7 @@ public class Reiziger {
 		naam = nm;
 		gbdatum = gb;
 	}
-	
+// getter
 	public String getNaam() {
 		return naam;
 	}
